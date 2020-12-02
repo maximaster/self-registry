@@ -1,0 +1,9 @@
+{
+    "name": "maximaster/self-registry",
+    "description": "Trait to make class to act like self-registry",
+    "autoload": {
+        "psr-4": {
+            "Maximaster\\SelfRegistry\\": "src/"
+        }
+    }
+}
